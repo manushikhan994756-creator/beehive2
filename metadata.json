@@ -1,0 +1,7 @@
+{
+  "name": "BeeHive Resort Wayanad",
+  "description": "A world-class, eco-luxury retreat website for BeeHive Resort Wayanad, featuring premium cinematic visuals, smooth animations, and nature-driven design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
